@@ -2,13 +2,6 @@
 
 # Hebrew Clinical NLP Pipeline for PTSD Symptom Detection
 
-[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg)](https://pytorch.org/)
-[![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-4.40%2B-yellow.svg)](https://huggingface.co/docs/transformers)
-[![Model](https://img.shields.io/badge/base%20model-AlephBERT-9cf.svg)](https://huggingface.co/dicta-il/alephbertgimmel-base)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
-
 > A multi-label NLP pipeline for detecting **DSM-5-aligned PTSD symptom indicators** in informal Hebrew text (military slang), using synthetic data generation, empirical realism validation, human inter-rater annotation, and a fine-tuned AlephBERT classifier.
 
 ---
